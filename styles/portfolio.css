@@ -17,7 +17,8 @@
     font-size: 20px;
     color: #FFFFFF;
 }
-.btn-secondery{
+
+.banner-button .btn-secondery{
     border: 1px solid #FD6E0A;
     background: none;
     border-radius: 5px;
